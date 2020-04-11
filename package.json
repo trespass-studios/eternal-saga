@@ -1,0 +1,30 @@
+{
+  "name": "eternal-saga",
+  "version": "1.0.0",
+  "description": "Javascript based action RPG game using Phaser CE",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trespass-studios/eternal-saga.git"
+  },
+  "keywords": [
+    "javascript",
+    "game",
+    "action",
+    "rpg",
+    "phaser",
+    "ce"
+  ],
+  "author": "Trespass Studios",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/trespass-studios/eternal-saga/issues"
+  },
+  "homepage": "https://github.com/trespass-studios/eternal-saga#readme",
+  "dependencies": {
+    "phaser-ce": "^2.15.0"
+  }
+}
