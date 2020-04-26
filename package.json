@@ -4,6 +4,9 @@
   "description": "Javascript based action RPG game using Phaser CE",
   "main": "index.js",
   "scripts": {
+    "build": "gulp",
+    "update": "gulp; serve dist",
+    "serve": "serve dist",
     "test": "test"
   },
   "repository": {
