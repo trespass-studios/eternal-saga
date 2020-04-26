@@ -25,6 +25,9 @@
   },
   "homepage": "https://github.com/trespass-studios/eternal-saga#readme",
   "dependencies": {
+    "browserify": "^16.5.1",
+    "gulp-cli": "^2.2.0",
+    "http-server": "^0.12.1",
     "phaser-ce": "^2.15.0"
   }
 }
