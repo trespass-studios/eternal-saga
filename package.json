@@ -31,9 +31,9 @@
     "phaser-ce": "^2.19.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
     "ansi-colors": "^4.1.1",
     "babelify": "^10.0.0",
     "browserify": "^16.5.1",
@@ -42,7 +42,7 @@
     "gulp-clean": "^0.4.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "serve": "^11.3.0",
+    "serve": "^14.0.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
